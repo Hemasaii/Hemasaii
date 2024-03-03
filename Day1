@@ -1,0 +1,7 @@
+public class greeting
+{
+static void main(String[]args);
+{
+system.out.print("hello World");
+}
+}
